@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1709769600&v=beta&t=KfytV5d2TIb_JF_ewQJS-mGme0dc4q6P5dBhoxhoKc8)]
+![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1709769600&v=beta&t=KfytV5d2TIb_JF_ewQJS-mGme0dc4q6P5dBhoxhoKc8)
 <h1 align="center">Hi 👋, I'm bahaeddine zaidi</h1>
 <h3 align="center">A Software Engineering Student specialized in Web & Internet Technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
