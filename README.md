@@ -30,4 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bahaeddinezaidi&show_icons=true&locale=en" alt="bahaeddinezaidi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bahaeddinezaidi&" alt="bahaeddinezaidi" /></p>
-
+![snake gif](https://raw.githubusercontent.com/bahaeddinezaidi/bahaeddinezaidi/output/github-snake-dark.svg)
